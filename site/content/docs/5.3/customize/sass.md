@@ -97,7 +97,7 @@ We like to use the CLI to compile our Sass, but you can use whichever method you
 # Install Sass globally
 npm install -g sass
 
-# Watchinges your custom Sass for changes and compiles it to CSS
+# Watches your custom Sass for changes and compiles it to CSS
 sass --watch ./scss/custom.scss ./css/custom.css
 ```
 
